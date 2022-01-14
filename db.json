@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "omnis nisi voluptatem quia",
+      "description": "Facilis et at ut ut. Magni rerum laudantium commodi facilis tempora ut. Quis reiciendis magni illo sit numquam sed deserunt. Soluta quos doloribus similique. Rerum eum dolorem consectetur accusamus sint labore iure ut.",
+      "category": "work",
+      "discount": 50,
+      "price": 10
+    },
+    {
+      "id": 3,
+      "title": "in quam eius qui",
+      "description": "Veritatis soluta fugit voluptatum occaecati occaecati facilis. Totam praesentium aut occaecati. Aspernatur culpa est. Corporis maiores aut eos qui praesentium. Exercitationem sunt mollitia iste soluta autem ipsam id.",
+      "category": "sport",
+      "discount": 40,
+      "price": 40
+    },
+    {
+      "id": 4,
+      "title": "dolorem maxime et eum",
+      "description": "Et expedita officia in explicabo officiis exercitationem excepturi. Eveniet eos quaerat tempore omnis in dolor velit incidunt qui. Aperiam distinctio occaecati quas aut odio reiciendis tempore repudiandae. Eos velit ipsam inventore.",
+      "category": "home",
+      "discount": 30,
+      "price": 40
+    },
+    {
+      "id": 5,
+      "title": "deserunt et modi laborum",
+      "description": "Id nesciunt incidunt sed vel. Eos voluptas vitae hic fugit assumenda temporibus. Mollitia autem et quos dolores sint illo nam iste voluptatem. Rerum officia et sit molestiae aspernatur illo sapiente tempore nihil.",
+      "category": "work",
+      "discount": 30,
+      "price": 50
+    },
+    {
+      "id": 6,
+      "title": "ea consequatur maxime et",
+      "description": "Ut maiores sed molestias eum minima excepturi repellendus dicta possimus. Sint non illo totam non pariatur est. Commodi esse reprehenderit odit dolores. Quos est necessitatibus facilis voluptatibus laborum. Et dolores aut sit dolores iste accusantium. Asperiores enim quasi non voluptatem id optio voluptatibus nostrum.",
+      "category": "sport",
+      "discount": 10,
+      "price": 30
+    },
+    {
+      "id": 7,
+      "title": "error quasi blanditiis laudantium",
+      "description": "Repellendus est corporis. Qui ducimus deserunt consequatur sit quia odio harum voluptatem totam. Assumenda harum qui optio ducimus. Perspiciatis ut sequi consequuntur aliquam ad laborum delectus.",
+      "category": "home",
+      "discount": 10,
+      "price": 70
+    },
+    {
+      "id": 8,
+      "title": "totam omnis dolorem sunt",
+      "description": "Voluptatem quibusdam sunt quia et rerum non sit. Sequi quaerat cupiditate vero dolor praesentium aliquam rerum nam. Suscipit est adipisci sit qui officiis nemo aut tenetur commodi.",
+      "category": "school",
+      "discount": 50,
+      "price": 70
+    },
+    {
+      "id": 9,
+      "title": "et dolore culpa nisi",
+      "description": "Eum voluptates laudantium accusamus sed ut perspiciatis consequatur sint explicabo. Maiores quo enim quia nostrum distinctio consequatur. Nihil fuga facilis neque consequatur dolorum voluptatibus minus animi.",
+      "category": "school",
+      "discount": 20,
+      "price": 65
+    },
+    {
+      "id": 10,
+      "title": "commodi sint modi omnis",
+      "description": "Ut maiores quas quaerat molestiae sunt dolorem quam. Non eos nisi excepturi. Aut neque culpa quia. Amet ut dolore quo debitis.",
+      "category": "school",
+      "discount": 10,
+      "price": 70
+    }
+  ],"reviews": [
+    {
+      "id": 1,
+      "rating": 3,
+      "comment": "Review 1 for product id 1",
+      "itemId": 1
+    },
+    {
+      "id": 2,
+      "rating": 4,
+      "comment": "Review 2 for product id 1",
+      "itemId": 1
+    },
+    {
+      "id": 3,
+      "rating": 4,
+      "comment": "Review 3 for product id 1",
+      "itemId": 1
+    },
+    {
+      "id": 4,
+      "rating": 5,
+      "comment": "Review 1 for product id 2",
+      "itemId": 2
+    },
+    {
+      "id": 5,
+      "rating": 3,
+      "comment": "Review 1 for product id 3",
+      "itemId": 3
+    }
+  ]
+}
